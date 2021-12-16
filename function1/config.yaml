@@ -1,0 +1,6 @@
+name: function1
+namespace: dev
+runtime: nodejs14
+source:
+    sourceType: inline
+    sourcePath: /mnt/c/SAP/C4C/tools/kyma20/examplekymarepo/function1
